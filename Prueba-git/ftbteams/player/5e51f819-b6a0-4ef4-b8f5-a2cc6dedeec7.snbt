@@ -1,0 +1,17 @@
+{
+	id: "5e51f819-b6a0-4ef4-b8f5-a2cc6dedeec7"
+	type: "player"
+	player_name: "F0rg0tMyN4me"
+	ranks: {
+		5e51f819-b6a0-4ef4-b8f5-a2cc6dedeec7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "F0rg0tMyN4me"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
